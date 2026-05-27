@@ -1,0 +1,21 @@
+{
+  "seedVersion": "1.0.0",
+  "category": { "id": "bobbleheads", "name": "Bobbleheads" },
+  "sets": [
+    { "id": "special", "name": "S.P.E.C.I.A.L.", "sortOrder": 1 },
+    { "id": "utility", "name": "Utility", "sortOrder": 2 },
+    { "id": "weapons", "name": "Weapons", "sortOrder": 3 }
+  ],
+  "items": [
+    {
+      "id": "bobblehead-strength",
+      "type": "bobbleheads",
+      "setId": "special",
+      "name": "Strength Bobblehead",
+      "effect": "Increases carry weight temporarily",
+      "formId": "FO76-BB-STR",
+      "tags": ["special"],
+      "sortOrder": 1
+    }
+  ]
+}

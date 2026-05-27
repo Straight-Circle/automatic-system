@@ -1,0 +1,20 @@
+{
+  "seedVersion": "1.0.0",
+  "category": { "id": "magazines", "name": "Magazines" },
+  "sets": [
+    { "id": "astoundingly_awesome_tales", "name": "Astoundingly Awesome Tales", "sortOrder": 1 },
+    { "id": "guns_and_bullets", "name": "Guns and Bullets", "sortOrder": 2 }
+  ],
+  "items": [
+    {
+      "id": "magazine-aat-01",
+      "type": "magazines",
+      "setId": "astoundingly_awesome_tales",
+      "name": "Astoundingly Awesome Tales #1",
+      "effect": "Example magazine effect",
+      "referenceId": "FO76-MAG-AAT-01",
+      "tags": ["magazine"],
+      "sortOrder": 1
+    }
+  ]
+}
