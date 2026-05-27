@@ -1,0 +1,18 @@
+{
+  "seedVersion": "1.0.0",
+  "category": { "id": "holotape_games", "name": "Holotape Games" },
+  "sets": [
+    { "id": "robco_fun", "name": "RobCo Fun", "sortOrder": 1 },
+    { "id": "grognak_ruby_ruins", "name": "Grognak & the Ruby Ruins", "sortOrder": 2 }
+  ],
+  "items": [
+    {
+      "id": "holotape-nuka-tapper",
+      "type": "holotape_games",
+      "setId": "robco_fun",
+      "name": "Nuka Tapper",
+      "tags": ["holotape", "game"],
+      "sortOrder": 1
+    }
+  ]
+}
